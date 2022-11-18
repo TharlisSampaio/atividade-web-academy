@@ -1,7 +1,14 @@
 body {
-    background: rgba(145, 145, 255, 0.684);
+    background: rgba(54, 54, 255, 0.69);
+    margin: 0px;
+
 }
 
+.principal {
+    width: max-content;
+    height: max-content;
+    margin: 0px;
+}
 
 .titulo {
     font-style: italic;

@@ -1,0 +1,23 @@
+{
+  "name": "atividade-web-academy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TharlisSampaio/atividade-web-academy.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TharlisSampaio/atividade-web-academy/issues"
+  },
+  "homepage": "https://github.com/TharlisSampaio/atividade-web-academy#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
