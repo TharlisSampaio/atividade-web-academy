@@ -1,4 +1,4 @@
-/* body {
+body {
     background: rgba(197, 136, 253, 0.63);
     margin: 0px;
 }
@@ -19,7 +19,15 @@
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
-#entrada{
+#input{
     display: inline-flex;
     border: none;
-} */
+    height: 20px;
+    width: 25em;
+}
+
+.entrada {
+    align-items: center;
+    align-content: flex-start;
+    margin-left: 4em;
+}

@@ -8,5 +8,6 @@ function addLink(){
     li.innerText = input.value
     console.log(li)
     ul.appendChild(li)
+    console.log(ul)
    
 }

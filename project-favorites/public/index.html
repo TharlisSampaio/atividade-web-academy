@@ -4,18 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="./public/js/script.js" defer></script>
-    <link rel="stylesheet" href="./css/style.css" />
+    <script src="../public/js/script.js" defer></script>
+    <link rel="stylesheet" href="../public/css/style.css" />
     <title>Document</title>
 </head>
 <body>
     <div class="formulario">
         <h1 id="titulo">my favorite links</h1>
         <div class="entrada">
-            <input id="entrada" placeholder="insira um link">
-            <button class="botao">Add</button>
+            <input type="text" id="input" placeholder="Digite um url">
+            <button type="submit" onclick="addLink()">Adicionar </button>
         </div>
-        <ul>
+        <ul id="ul">
             <li>Nunca mais esqueça um link</li>
         </ul>
     </div>
