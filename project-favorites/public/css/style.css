@@ -1,19 +1,25 @@
-body {
-    background: rgba(145, 145, 255, 0.684);
+/* body {
+    background: rgba(197, 136, 253, 0.63);
+    margin: 0px;
 }
 
+.formulario {
+    background: rgba(245, 245, 245, 0.733);
+    padding-right: 0px;
+    left: 50%;
+    top: 50%;
+    margin-top: 150px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 150px;
+    border-radius: 0.4em;
+}
 
-.titulo {
-    font-style: italic;
+#titulo {
     text-align: center;
-    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
 }
-
-.container {
-    width: 700px; 
-    margin-left: auto;
-    margin-right: auto;
-    border-left: auto;
-    text-align: center;
-}
-
+#entrada{
+    display: inline-flex;
+    border: none;
+} */
